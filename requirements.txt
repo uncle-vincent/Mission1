@@ -1,0 +1,5 @@
+# Installs dependencies needed by Mission1
+
+# Libraries in alphabetical order
+boto3
+celery
